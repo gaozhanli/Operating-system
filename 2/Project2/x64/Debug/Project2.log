@@ -1,0 +1,5 @@
+﻿  Array.cpp
+e:\project\c++\操作系统\上机2\project2\project2\array.cpp(9): warning C4101: “no”: 未引用的局部变量
+  Linker.cpp
+  正在生成代码...
+  Project2.vcxproj -> E:\project\C++\操作系统\上机2\Project2\x64\Debug\Project2.exe
